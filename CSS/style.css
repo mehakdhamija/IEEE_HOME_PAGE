@@ -107,8 +107,13 @@ font-size: 1.25rem;
   margin-left: -27%;
 }
 
+.carousel-control-prev-icon{
+  filter: invert(100%);
+
+}
+
 .carousel-control-next-icon{
-  color: #010101;
+  filter: invert(100%);
 }
 
 
