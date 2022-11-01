@@ -114,16 +114,16 @@ font-size: 1.25rem;
 
 
 #logoieee{
-    height: 40%;
-    width: 30%;
-    margin-left: 12%;;
+    height: 44%;
+    width: 34%;
+    margin-left: 12%;
     
 }
 
 .ieeeWeek{
     background-color: white;
     color: black;
-    width: 140%;
+    width: 150%;
     height: 100%;
     border-style: none;
     border-radius: 1.0625rem;
@@ -153,7 +153,8 @@ font-style: normal;
 	letter-spacing: normal;
 	line-height: 1.3em;
   margin-right: 1.25rem;
-  font-family: 'Smooch Sans', sans-serif;
+  font-family: 'Poppins';
+font-style: normal;
 	
 }
 
